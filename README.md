@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanvirahammadjoy
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript, python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by linkdin tanvirahammadjoy
 - 😄 Pronouns: he/hem
